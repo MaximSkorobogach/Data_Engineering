@@ -2,7 +2,7 @@ import csv
 
 def process_csv(input_file_path, output_file_path):
     records = []
-
+#Создание записей
     with open(input_file_path, newline="\n", encoding="utf-8") as file:
         reader = csv.reader(file, delimiter=",")
         for row in reader:
@@ -23,12 +23,12 @@ def process_csv(input_file_path, output_file_path):
 
     write_to_csv(output_file_path, sorted_records)
 
-
+#Расчет среднего по зарплате
 def calculate_average_salary(records):
     total_salary = sum(record["salary"] for record in records)
     return total_salary / len(records) if len(records) > 0 else 0
 
-
+#Фильтрация записей
 def filter_records(records, average_salary):
     return [
         record for record in records
@@ -36,11 +36,11 @@ def filter_records(records, average_salary):
         if record["salary"] > average_salary and record["age"] > 25 + (49 % 10)
     ]
 
-
+#Сортировка записей по номеру
 def sort_records(records):
     return sorted(records, key=lambda record: record["number"])
 
-
+#Внести записи в файл формата csv
 def write_to_csv(output_file_path, records):
     with open(output_file_path, 'w', encoding="utf-8", newline='') as file:
         writer = csv.writer(file, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
