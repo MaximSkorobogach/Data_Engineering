@@ -17,7 +17,7 @@ def write_to_file(filename, data):
 with open('task_1_var_49_item.msgpack', 'rb') as file:
     data = msgpack.load(file)
 
-conn = sqlite3.connect('data.db')
+conn = sqlite3.connect('../data.db')
 conn.row_factory = sqlite3.Row
 cursor = conn.cursor()
 
