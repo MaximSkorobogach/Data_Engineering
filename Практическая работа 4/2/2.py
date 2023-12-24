@@ -1,6 +1,7 @@
 import sqlite3
 import json
 
+
 def write_to_file(filename, data):
     with open(filename, "w", encoding='utf-8') as r_json:
         r_json.write(
