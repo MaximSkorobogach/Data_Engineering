@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import numpy as np
 import json
+import shutil
 import re
 
 def get_num_stat(selector: str, items: list):
@@ -77,7 +78,6 @@ for filename in os.listdir(folder_path):
         items += result;
 
 # Удаляем временную папку с распакованными файлами
-import shutil
 shutil.rmtree(folder_path)
 
 items = sorted(items, key=lambda x: x['bonus'], reverse=True)
