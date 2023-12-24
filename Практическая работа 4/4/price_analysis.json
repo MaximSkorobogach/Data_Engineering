@@ -1,0 +1,282 @@
+[
+  {
+    "Group": "Аликанте",
+    "Total Price": 10.05922,
+    "Min Price": 10.05922,
+    "Max Price": 10.05922,
+    "Avg Price": 10.05922,
+    "Product Count": 1
+  },
+  {
+    "Group": "Алма-Ата",
+    "Total Price": 60.79695632,
+    "Min Price": 0.07345632,
+    "Max Price": 58.89,
+    "Avg Price": 20.265652106666668,
+    "Product Count": 3
+  },
+  {
+    "Group": "Алькала-де-Энарес",
+    "Total Price": 36.38,
+    "Min Price": 36.38,
+    "Max Price": 36.38,
+    "Avg Price": 36.38,
+    "Product Count": 1
+  },
+  {
+    "Group": "Артейхо",
+    "Total Price": 53.8,
+    "Min Price": 53.8,
+    "Max Price": 53.8,
+    "Avg Price": 53.8,
+    "Product Count": 1
+  },
+  {
+    "Group": "Барселона",
+    "Total Price": 83245.0,
+    "Min Price": 83245.0,
+    "Max Price": 83245.0,
+    "Avg Price": 83245.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Белград",
+    "Total Price": 15.8941,
+    "Min Price": 15.8941,
+    "Max Price": 15.8941,
+    "Avg Price": 15.8941,
+    "Product Count": 1
+  },
+  {
+    "Group": "Бургос",
+    "Total Price": 80.16611200000001,
+    "Min Price": 80.16611200000001,
+    "Max Price": 80.16611200000001,
+    "Avg Price": 80.16611200000001,
+    "Product Count": 1
+  },
+  {
+    "Group": "Валенсия",
+    "Total Price": 231.32019999999997,
+    "Min Price": 3.8032,
+    "Max Price": 185.64,
+    "Avg Price": 57.83004999999999,
+    "Product Count": 4
+  },
+  {
+    "Group": "Вильнюс",
+    "Total Price": 203.4882,
+    "Min Price": 9.405200000000002,
+    "Max Price": 164.84300000000002,
+    "Avg Price": 67.8294,
+    "Product Count": 3
+  },
+  {
+    "Group": "Вроцлав",
+    "Total Price": 37.02,
+    "Min Price": 37.02,
+    "Max Price": 37.02,
+    "Avg Price": 37.02,
+    "Product Count": 1
+  },
+  {
+    "Group": "Загреб",
+    "Total Price": 135.99261,
+    "Min Price": 18.342609999999997,
+    "Max Price": 97.55,
+    "Avg Price": 45.330870000000004,
+    "Product Count": 3
+  },
+  {
+    "Group": "Касерес",
+    "Total Price": 78.79,
+    "Min Price": 78.79,
+    "Max Price": 78.79,
+    "Avg Price": 78.79,
+    "Product Count": 1
+  },
+  {
+    "Group": "Киев",
+    "Total Price": 95.67,
+    "Min Price": 95.67,
+    "Max Price": 95.67,
+    "Avg Price": 95.67,
+    "Product Count": 1
+  },
+  {
+    "Group": "Ла-Корунья",
+    "Total Price": 28.729999999999997,
+    "Min Price": 28.729999999999997,
+    "Max Price": 28.729999999999997,
+    "Avg Price": 28.729999999999997,
+    "Product Count": 1
+  },
+  {
+    "Group": "Луго",
+    "Total Price": 38.17,
+    "Min Price": 38.17,
+    "Max Price": 38.17,
+    "Avg Price": 38.17,
+    "Product Count": 1
+  },
+  {
+    "Group": "Льейда",
+    "Total Price": 22.43,
+    "Min Price": 22.43,
+    "Max Price": 22.43,
+    "Avg Price": 22.43,
+    "Product Count": 1
+  },
+  {
+    "Group": "Любляна",
+    "Total Price": 135.543,
+    "Min Price": 135.543,
+    "Max Price": 135.543,
+    "Avg Price": 135.543,
+    "Product Count": 1
+  },
+  {
+    "Group": "Мадрид",
+    "Total Price": 87.2064,
+    "Min Price": 87.2064,
+    "Max Price": 87.2064,
+    "Avg Price": 87.2064,
+    "Product Count": 1
+  },
+  {
+    "Group": "Малага",
+    "Total Price": 58.58,
+    "Min Price": 58.58,
+    "Max Price": 58.58,
+    "Avg Price": 58.58,
+    "Product Count": 1
+  },
+  {
+    "Group": "Минск",
+    "Total Price": 91.78,
+    "Min Price": 91.78,
+    "Max Price": 91.78,
+    "Avg Price": 91.78,
+    "Product Count": 1
+  },
+  {
+    "Group": "Мурсия",
+    "Total Price": 37.86,
+    "Min Price": 37.86,
+    "Max Price": 37.86,
+    "Avg Price": 37.86,
+    "Product Count": 1
+  },
+  {
+    "Group": "Навалькарнеро",
+    "Total Price": 1.4675000000000011,
+    "Min Price": 1.4675000000000011,
+    "Max Price": 1.4675000000000011,
+    "Avg Price": 1.4675000000000011,
+    "Product Count": 1
+  },
+  {
+    "Group": "Пласенсия",
+    "Total Price": 66.48,
+    "Min Price": 26.91,
+    "Max Price": 39.57,
+    "Avg Price": 33.24,
+    "Product Count": 2
+  },
+  {
+    "Group": "Санкт-Петербург",
+    "Total Price": 26.92,
+    "Min Price": 26.92,
+    "Max Price": 26.92,
+    "Avg Price": 26.92,
+    "Product Count": 1
+  },
+  {
+    "Group": "Санхенхо",
+    "Total Price": 45.91,
+    "Min Price": 45.91,
+    "Max Price": 45.91,
+    "Avg Price": 45.91,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сараево",
+    "Total Price": 61.31,
+    "Min Price": 61.31,
+    "Max Price": 61.31,
+    "Avg Price": 61.31,
+    "Product Count": 1
+  },
+  {
+    "Group": "Севилья",
+    "Total Price": 5.944000000000001,
+    "Min Price": 5.944000000000001,
+    "Max Price": 5.944000000000001,
+    "Avg Price": 5.944000000000001,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сеговия",
+    "Total Price": 63.31999999999999,
+    "Min Price": 63.31999999999999,
+    "Max Price": 63.31999999999999,
+    "Avg Price": 63.31999999999999,
+    "Product Count": 1
+  },
+  {
+    "Group": "София",
+    "Total Price": 24.2,
+    "Min Price": 24.2,
+    "Max Price": 24.2,
+    "Avg Price": 24.2,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сьюдад-Реаль",
+    "Total Price": 104.73,
+    "Min Price": 39.22,
+    "Max Price": 65.51,
+    "Avg Price": 52.365,
+    "Product Count": 2
+  },
+  {
+    "Group": "Ташкент",
+    "Total Price": 55.69,
+    "Min Price": 55.69,
+    "Max Price": 55.69,
+    "Avg Price": 55.69,
+    "Product Count": 1
+  },
+  {
+    "Group": "Трухильо",
+    "Total Price": 4.5725999999999996,
+    "Min Price": 4.5725999999999996,
+    "Max Price": 4.5725999999999996,
+    "Avg Price": 4.5725999999999996,
+    "Product Count": 1
+  },
+  {
+    "Group": "Хихон",
+    "Total Price": 23.909712000000003,
+    "Min Price": 1.3997120000000003,
+    "Max Price": 22.51,
+    "Avg Price": 11.954856000000001,
+    "Product Count": 2
+  },
+  {
+    "Group": "Эль-Пуэрто-де-Санта-Мария",
+    "Total Price": 38.93,
+    "Min Price": 38.93,
+    "Max Price": 38.93,
+    "Avg Price": 38.93,
+    "Product Count": 1
+  },
+  {
+    "Group": "Эльче",
+    "Total Price": 96.04,
+    "Min Price": 96.04,
+    "Max Price": 96.04,
+    "Avg Price": 96.04,
+    "Product Count": 1
+  }
+]

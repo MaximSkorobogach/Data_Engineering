@@ -1,0 +1,282 @@
+[
+  {
+    "Group": "Аликанте",
+    "Total Quantity": 925,
+    "Min Quantity": 925,
+    "Max Quantity": 925,
+    "Avg Quantity": 925.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Алма-Ата",
+    "Total Quantity": 3421,
+    "Min Quantity": 738,
+    "Max Quantity": 1731,
+    "Avg Quantity": 1140.3333333333333,
+    "Product Count": 3
+  },
+  {
+    "Group": "Алькала-де-Энарес",
+    "Total Quantity": 580,
+    "Min Quantity": 580,
+    "Max Quantity": 580,
+    "Avg Quantity": 580.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Артейхо",
+    "Total Quantity": 806,
+    "Min Quantity": 806,
+    "Max Quantity": 806,
+    "Avg Quantity": 806.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Барселона",
+    "Total Quantity": 14,
+    "Min Quantity": 14,
+    "Max Quantity": 14,
+    "Avg Quantity": 14.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Белград",
+    "Total Quantity": 1130,
+    "Min Quantity": 1130,
+    "Max Quantity": 1130,
+    "Avg Quantity": 1130.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Бургос",
+    "Total Quantity": 1245,
+    "Min Quantity": 1245,
+    "Max Quantity": 1245,
+    "Avg Quantity": 1245.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Валенсия",
+    "Total Quantity": 3682,
+    "Min Quantity": 764,
+    "Max Quantity": 1096,
+    "Avg Quantity": 920.5,
+    "Product Count": 4
+  },
+  {
+    "Group": "Вильнюс",
+    "Total Quantity": 2977,
+    "Min Quantity": 875,
+    "Max Quantity": 1135,
+    "Avg Quantity": 992.3333333333334,
+    "Product Count": 3
+  },
+  {
+    "Group": "Вроцлав",
+    "Total Quantity": 604,
+    "Min Quantity": 604,
+    "Max Quantity": 604,
+    "Avg Quantity": 604.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Загреб",
+    "Total Quantity": 2141,
+    "Min Quantity": 592,
+    "Max Quantity": 858,
+    "Avg Quantity": 713.6666666666666,
+    "Product Count": 3
+  },
+  {
+    "Group": "Касерес",
+    "Total Quantity": 594,
+    "Min Quantity": 594,
+    "Max Quantity": 594,
+    "Avg Quantity": 594.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Киев",
+    "Total Quantity": 653,
+    "Min Quantity": 653,
+    "Max Quantity": 653,
+    "Avg Quantity": 653.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Ла-Корунья",
+    "Total Quantity": 636,
+    "Min Quantity": 636,
+    "Max Quantity": 636,
+    "Avg Quantity": 636.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Луго",
+    "Total Quantity": 974,
+    "Min Quantity": 974,
+    "Max Quantity": 974,
+    "Avg Quantity": 974.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Льейда",
+    "Total Quantity": 519,
+    "Min Quantity": 519,
+    "Max Quantity": 519,
+    "Avg Quantity": 519.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Любляна",
+    "Total Quantity": 908,
+    "Min Quantity": 908,
+    "Max Quantity": 908,
+    "Avg Quantity": 908.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Мадрид",
+    "Total Quantity": 1191,
+    "Min Quantity": 1191,
+    "Max Quantity": 1191,
+    "Avg Quantity": 1191.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Малага",
+    "Total Quantity": 686,
+    "Min Quantity": 686,
+    "Max Quantity": 686,
+    "Avg Quantity": 686.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Минск",
+    "Total Quantity": 651,
+    "Min Quantity": 651,
+    "Max Quantity": 651,
+    "Avg Quantity": 651.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Мурсия",
+    "Total Quantity": 595,
+    "Min Quantity": 595,
+    "Max Quantity": 595,
+    "Avg Quantity": 595.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Навалькарнеро",
+    "Total Quantity": 1252,
+    "Min Quantity": 1252,
+    "Max Quantity": 1252,
+    "Avg Quantity": 1252.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Пласенсия",
+    "Total Quantity": 1974,
+    "Min Quantity": 539,
+    "Max Quantity": 1435,
+    "Avg Quantity": 987.0,
+    "Product Count": 2
+  },
+  {
+    "Group": "Санкт-Петербург",
+    "Total Quantity": 1039,
+    "Min Quantity": 1039,
+    "Max Quantity": 1039,
+    "Avg Quantity": 1039.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Санхенхо",
+    "Total Quantity": 903,
+    "Min Quantity": 903,
+    "Max Quantity": 903,
+    "Avg Quantity": 903.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сараево",
+    "Total Quantity": 513,
+    "Min Quantity": 513,
+    "Max Quantity": 513,
+    "Avg Quantity": 513.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Севилья",
+    "Total Quantity": 1212,
+    "Min Quantity": 1212,
+    "Max Quantity": 1212,
+    "Avg Quantity": 1212.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сеговия",
+    "Total Quantity": 1156,
+    "Min Quantity": 1156,
+    "Max Quantity": 1156,
+    "Avg Quantity": 1156.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "София",
+    "Total Quantity": 815,
+    "Min Quantity": 815,
+    "Max Quantity": 815,
+    "Avg Quantity": 815.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Сьюдад-Реаль",
+    "Total Quantity": 1886,
+    "Min Quantity": 935,
+    "Max Quantity": 951,
+    "Avg Quantity": 943.0,
+    "Product Count": 2
+  },
+  {
+    "Group": "Ташкент",
+    "Total Quantity": 698,
+    "Min Quantity": 698,
+    "Max Quantity": 698,
+    "Avg Quantity": 698.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Трухильо",
+    "Total Quantity": 1006,
+    "Min Quantity": 1006,
+    "Max Quantity": 1006,
+    "Avg Quantity": 1006.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Хихон",
+    "Total Quantity": 1649,
+    "Min Quantity": 818,
+    "Max Quantity": 831,
+    "Avg Quantity": 824.5,
+    "Product Count": 2
+  },
+  {
+    "Group": "Эль-Пуэрто-де-Санта-Мария",
+    "Total Quantity": 946,
+    "Min Quantity": 946,
+    "Max Quantity": 946,
+    "Avg Quantity": 946.0,
+    "Product Count": 1
+  },
+  {
+    "Group": "Эльче",
+    "Total Quantity": 694,
+    "Min Quantity": 694,
+    "Max Quantity": 694,
+    "Avg Quantity": 694.0,
+    "Product Count": 1
+  }
+]

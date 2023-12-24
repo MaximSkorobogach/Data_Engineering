@@ -1,0 +1,30 @@
+[
+  {
+    "City": "Алма-Ата",
+    "Average_Price": 0.07345632
+  },
+  {
+    "City": "Валенсия",
+    "Average_Price": 185.64
+  },
+  {
+    "City": "Вильнюс",
+    "Average_Price": 29.24
+  },
+  {
+    "City": "Загреб",
+    "Average_Price": 18.342609999999997
+  },
+  {
+    "City": "Пласенсия",
+    "Average_Price": 26.91
+  },
+  {
+    "City": "Сьюдад-Реаль",
+    "Average_Price": 65.51
+  },
+  {
+    "City": "Хихон",
+    "Average_Price": 22.51
+  }
+]
