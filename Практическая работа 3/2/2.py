@@ -60,9 +60,7 @@ def handle_file(file_name):
 
         return items
 
-
-# Путь к zip-архиву с HTML-файлами
-zip_path = 'zip_var_49.zip'  # Замените на реальный путь
+zip_path = 'zip_var_49.zip'
 
 # Распаковка zip-архива
 with zipfile.ZipFile(zip_path, 'r') as zip_ref:
