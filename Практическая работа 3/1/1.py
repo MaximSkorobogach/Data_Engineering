@@ -6,6 +6,8 @@ import json
 import re
 import shutil
 
+
+#Получить статистику числовую
 def get_num_stat(selector: str, items: list):
     nums = list(map(lambda x: float(x[selector]), items))
 
@@ -19,7 +21,7 @@ def get_num_stat(selector: str, items: list):
 
     return stat
 
-
+#Получить статистику по тексту
 def get_freq(selector: str, items: list):
     freq = {}
 
@@ -29,10 +31,12 @@ def get_freq(selector: str, items: list):
 
     return freq
 
+#Запись файла в JSON
 def write_to_json(path: str, data: str):
     with open(path, 'w', encoding="utf-8") as f:
         f.write(json.dumps(data, ensure_ascii=False))
 
+#Обработка файла
 def handle_file(file_name):
     with open(file_name, encoding="utf-8") as file:
         text = ""
