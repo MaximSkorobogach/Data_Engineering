@@ -1,0 +1,2013 @@
+{
+  "Query 1 Air Pollution": [
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f538555"
+      },
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "2017": {
+        "$numberDouble": "NaN"
+      },
+      "2018": 61.8,
+      "2019": 58.8,
+      "2020": 46.5,
+      "2021": 37.5,
+      "2022": 17.1,
+      "2023": 18.1
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9255b9e951b37b6549"
+      },
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "2017": {
+        "$numberDouble": "NaN"
+      },
+      "2018": 61.8,
+      "2019": 58.8,
+      "2020": 46.5,
+      "2021": 37.5,
+      "2022": 17.1,
+      "2023": 18.1
+    }
+  ],
+  "Query 1 Dog": [
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f54199a"
+      },
+      "age": 10,
+      "weight_kg": 30.09,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2021-06-22T03:57:31",
+      "is_male": true,
+      "litter_size": 12,
+      "health_score": 10,
+      "exercise_hours": 4.15,
+      "training_sessions": 7,
+      "feeding_frequency": "twice",
+      "grooming_needs": 8
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f54449a"
+      },
+      "age": 10,
+      "weight_kg": 31.58,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2020-09-17T08:18:13",
+      "is_male": true,
+      "litter_size": 11,
+      "health_score": 10,
+      "exercise_hours": 3.09,
+      "training_sessions": 6,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 6
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f5494c4"
+      },
+      "age": 10,
+      "weight_kg": 30.62,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2022-03-30T10:04:22",
+      "is_male": true,
+      "litter_size": 12,
+      "health_score": 10,
+      "exercise_hours": 3.07,
+      "training_sessions": 9,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 9
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f54c584"
+      },
+      "age": 10,
+      "weight_kg": 32.57,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2023-12-08T07:20:44",
+      "is_male": false,
+      "litter_size": 10,
+      "health_score": 10,
+      "exercise_hours": 4.2,
+      "training_sessions": 12,
+      "feeding_frequency": "four times",
+      "grooming_needs": 5
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f54f610"
+      },
+      "age": 10,
+      "weight_kg": 31.09,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2022-06-18T16:40:32",
+      "is_male": true,
+      "litter_size": 12,
+      "health_score": 10,
+      "exercise_hours": 3.89,
+      "training_sessions": 5,
+      "feeding_frequency": "four times",
+      "grooming_needs": 3
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37ba868"
+      },
+      "age": 10,
+      "weight_kg": 21.48,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2020-11-07T14:57:01",
+      "is_male": true,
+      "litter_size": 9,
+      "health_score": 9.96,
+      "exercise_hours": 2.22,
+      "training_sessions": 7,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 2
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37bf98e"
+      },
+      "age": 10,
+      "weight_kg": 30.09,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2021-06-22T03:57:31",
+      "is_male": true,
+      "litter_size": 12,
+      "health_score": 9.81,
+      "exercise_hours": 4.15,
+      "training_sessions": 7,
+      "feeding_frequency": "twice",
+      "grooming_needs": 8
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37bfaad"
+      },
+      "age": 10,
+      "weight_kg": 20.76,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2023-06-06T08:46:43",
+      "is_male": false,
+      "litter_size": 6,
+      "health_score": 9.06,
+      "exercise_hours": 3.5,
+      "training_sessions": 5,
+      "feeding_frequency": "four times",
+      "grooming_needs": 6
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37c0269"
+      },
+      "age": 10,
+      "weight_kg": 23.38,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2022-01-25T22:00:33",
+      "is_male": true,
+      "litter_size": 8,
+      "health_score": 9.19,
+      "exercise_hours": 2.7,
+      "training_sessions": 2,
+      "feeding_frequency": "twice",
+      "grooming_needs": 7
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37c3280"
+      },
+      "age": 10,
+      "weight_kg": 31.39,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2022-09-04T12:20:01",
+      "is_male": true,
+      "litter_size": 9,
+      "health_score": 9.7,
+      "exercise_hours": 2.2,
+      "training_sessions": 7,
+      "feeding_frequency": "twice",
+      "grooming_needs": 10
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37c8fc9"
+      },
+      "age": 10,
+      "weight_kg": 18.89,
+      "height_cm": 100,
+      "vaccinated": false,
+      "birth_timestamp": "2021-03-27T08:06:58",
+      "is_male": false,
+      "litter_size": 4,
+      "health_score": 9.67,
+      "exercise_hours": 2.47,
+      "training_sessions": 9,
+      "feeding_frequency": "twice",
+      "grooming_needs": 9
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9355b9e951b37cadca"
+      },
+      "age": 10,
+      "weight_kg": 17.66,
+      "height_cm": 100,
+      "vaccinated": true,
+      "birth_timestamp": "2022-10-15T00:26:56",
+      "is_male": false,
+      "litter_size": 12,
+      "health_score": 9.73,
+      "exercise_hours": 3.35,
+      "training_sessions": 12,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 4
+    }
+  ],
+  "Query 2 Air Pollution": [
+    {
+      "_id": "India",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Andorra",
+      "average_pollution_2021": 7.3
+    },
+    {
+      "_id": "Lithuania",
+      "average_pollution_2021": 13.041666666666666
+    },
+    {
+      "_id": "Vietnam",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Sweden",
+      "average_pollution_2021": 6.447826086956522
+    },
+    {
+      "_id": "Bermuda",
+      "average_pollution_2021": 3.3
+    },
+    {
+      "_id": "Bahrain",
+      "average_pollution_2021": 49.8
+    },
+    {
+      "_id": "Ireland",
+      "average_pollution_2021": 7.292857142857143
+    },
+    {
+      "_id": "Nicaragua",
+      "average_pollution_2021": 8.666666666666666
+    },
+    {
+      "_id": "Brazil",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "El Salvador",
+      "average_pollution_2021": 13.55
+    },
+    {
+      "_id": "Tajikistan",
+      "average_pollution_2021": 55.739999999999995
+    },
+    {
+      "_id": "Syria",
+      "average_pollution_2021": 22.75
+    },
+    {
+      "_id": "United Kingdom",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Slovakia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Georgia",
+      "average_pollution_2021": 23.166666666666668
+    },
+    {
+      "_id": "Uganda",
+      "average_pollution_2021": 27.6
+    },
+    {
+      "_id": "Australia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Mongolia",
+      "average_pollution_2021": 25.316666666666666
+    },
+    {
+      "_id": "Algeria",
+      "average_pollution_2021": 20.0
+    },
+    {
+      "_id": "Kuwait",
+      "average_pollution_2021": 29.549999999999997
+    },
+    {
+      "_id": "Kyrgyzstan",
+      "average_pollution_2021": 54.599999999999994
+    },
+    {
+      "_id": "Turkmenistan",
+      "average_pollution_2021": 20.4
+    },
+    {
+      "_id": "Zambia",
+      "average_pollution_2021": 24.6
+    },
+    {
+      "_id": "Denmark",
+      "average_pollution_2021": 9.700000000000001
+    },
+    {
+      "_id": "Estonia",
+      "average_pollution_2021": 5.4375
+    },
+    {
+      "_id": "Iceland",
+      "average_pollution_2021": 4.7
+    },
+    {
+      "_id": "Ukraine",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Greece",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Costa Rica",
+      "average_pollution_2021": 7.8
+    },
+    {
+      "_id": "Portugal",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "French Polynesia",
+      "average_pollution_2021": 4.3
+    },
+    {
+      "_id": "Belgium",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Myanmar",
+      "average_pollution_2021": 26.4
+    },
+    {
+      "_id": "Germany",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Pakistan",
+      "average_pollution_2021": 71.38571428571429
+    },
+    {
+      "_id": "Taiwan",
+      "average_pollution_2021": 16.264864864864865
+    },
+    {
+      "_id": "Malta",
+      "average_pollution_2021": 13.319999999999999
+    },
+    {
+      "_id": "Italy",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Indonesia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Armenia",
+      "average_pollution_2021": 35.3
+    },
+    {
+      "_id": "Thailand",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Liechtenstein",
+      "average_pollution_2021": 7.2
+    },
+    {
+      "_id": "Madagascar",
+      "average_pollution_2021": 21.5
+    },
+    {
+      "_id": "Puerto Rico",
+      "average_pollution_2021": 6.811111111111111
+    },
+    {
+      "_id": "Kosovo",
+      "average_pollution_2021": 15.194444444444445
+    },
+    {
+      "_id": "Hong Kong SAR",
+      "average_pollution_2021": 16.85
+    },
+    {
+      "_id": "Norway",
+      "average_pollution_2021": 7.848387096774194
+    },
+    {
+      "_id": "Ethiopia",
+      "average_pollution_2021": 23.9
+    },
+    {
+      "_id": "Suriname",
+      "average_pollution_2021": 8.2
+    },
+    {
+      "_id": "Afghanistan",
+      "average_pollution_2021": 37.5
+    },
+    {
+      "_id": "Democratic Republic of the Congo",
+      "average_pollution_2021": 44.6
+    },
+    {
+      "_id": "Bosnia Herzegovina",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Russia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Czech Republic",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Iran",
+      "average_pollution_2021": 27.735000000000003
+    },
+    {
+      "_id": "Guam",
+      "average_pollution_2021": 2.3
+    },
+    {
+      "_id": "Japan",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Canada",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Nepal",
+      "average_pollution_2021": 37.56666666666667
+    },
+    {
+      "_id": "Philippines",
+      "average_pollution_2021": 14.568181818181818
+    },
+    {
+      "_id": "Netherlands",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Israel",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "New Caledonia",
+      "average_pollution_2021": 3.8
+    },
+    {
+      "_id": "Cambodia",
+      "average_pollution_2021": 19.8
+    },
+    {
+      "_id": "Serbia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Ghana",
+      "average_pollution_2021": 27.4
+    },
+    {
+      "_id": "Mexico",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Turkey",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Austria",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Egypt",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Croatia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Spain",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Bolivia",
+      "average_pollution_2021": 5.5
+    },
+    {
+      "_id": "Luxembourg",
+      "average_pollution_2021": 13.800000000000002
+    },
+    {
+      "_id": "Bulgaria",
+      "average_pollution_2021": 15.600000000000001
+    },
+    {
+      "_id": "Kazakhstan",
+      "average_pollution_2021": 30.94411764705882
+    },
+    {
+      "_id": "Sudan",
+      "average_pollution_2021": 44.1
+    },
+    {
+      "_id": "Macao SAR",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Bonaire, Saint Eustatius and Saba",
+      "average_pollution_2021": 5.1
+    },
+    {
+      "_id": "Trinidad and Tobago",
+      "average_pollution_2021": 6.633333333333333
+    },
+    {
+      "_id": "Guatemala",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Ivory Coast",
+      "average_pollution_2021": 26.5
+    },
+    {
+      "_id": "Grenada",
+      "average_pollution_2021": 5.5
+    },
+    {
+      "_id": "Hungary",
+      "average_pollution_2021": 16.845
+    },
+    {
+      "_id": "Albania",
+      "average_pollution_2021": 12.5
+    },
+    {
+      "_id": "U.S. Virgin Islands",
+      "average_pollution_2021": 4.55
+    },
+    {
+      "_id": "Finland",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Singapore",
+      "average_pollution_2021": 13.8
+    },
+    {
+      "_id": "Romania",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Senegal",
+      "average_pollution_2021": 14.6
+    },
+    {
+      "_id": "Uzbekistan",
+      "average_pollution_2021": 42.8
+    },
+    {
+      "_id": "Argentina",
+      "average_pollution_2021": 10.0
+    },
+    {
+      "_id": "Azerbaijan",
+      "average_pollution_2021": 17.6
+    },
+    {
+      "_id": "Rwanda",
+      "average_pollution_2021": 43.1
+    },
+    {
+      "_id": "USA",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Chad",
+      "average_pollution_2021": 77.6
+    },
+    {
+      "_id": "Montenegro",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Laos",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "South Korea",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Gabon",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Switzerland",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Colombia",
+      "average_pollution_2021": 14.711111111111112
+    },
+    {
+      "_id": "Uruguay",
+      "average_pollution_2021": 14.2
+    },
+    {
+      "_id": "Panama",
+      "average_pollution_2021": 8.2
+    },
+    {
+      "_id": "Kenya",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Bangladesh",
+      "average_pollution_2021": 78.1
+    },
+    {
+      "_id": "Maldives",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Sri Lanka",
+      "average_pollution_2021": 15.2125
+    },
+    {
+      "_id": "China",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Malaysia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Cyprus",
+      "average_pollution_2021": 13.857142857142858
+    },
+    {
+      "_id": "Peru",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Guyana",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Qatar",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Venezuela",
+      "average_pollution_2021": 5.4
+    },
+    {
+      "_id": "United Arab Emirates",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Angola",
+      "average_pollution_2021": 11.0
+    },
+    {
+      "_id": "Latvia",
+      "average_pollution_2021": 8.0
+    },
+    {
+      "_id": "Poland",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Iraq",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "South Africa",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "New Zealand",
+      "average_pollution_2021": 7.280645161290322
+    },
+    {
+      "_id": "France",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Burkina Faso",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "Nigeria",
+      "average_pollution_2021": 30.325
+    },
+    {
+      "_id": "Chile",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    },
+    {
+      "_id": "North Macedonia",
+      "average_pollution_2021": 20.81
+    },
+    {
+      "_id": "Moldova",
+      "average_pollution_2021": 34.7
+    },
+    {
+      "_id": "Honduras",
+      "average_pollution_2021": 9.9
+    },
+    {
+      "_id": "Belize",
+      "average_pollution_2021": 5.4
+    },
+    {
+      "_id": "Saudi Arabia",
+      "average_pollution_2021": 30.225
+    },
+    {
+      "_id": "Slovenia",
+      "average_pollution_2021": {
+        "$numberDouble": "NaN"
+      }
+    }
+  ],
+  "Query 2 Dog": [
+    {
+      "_id": false,
+      "average_weight": 34.98237103667628
+    },
+    {
+      "_id": true,
+      "average_weight": 35.02740537271307
+    }
+  ],
+  "Query 5 Air Pollution": [
+    {
+      "_id": "India",
+      "total_cities": 399
+    },
+    {
+      "_id": "Andorra",
+      "total_cities": 1
+    },
+    {
+      "_id": "Lithuania",
+      "total_cities": 12
+    },
+    {
+      "_id": "Vietnam",
+      "total_cities": 31
+    },
+    {
+      "_id": "Sweden",
+      "total_cities": 23
+    },
+    {
+      "_id": "Bermuda",
+      "total_cities": 1
+    },
+    {
+      "_id": "Bahrain",
+      "total_cities": 2
+    },
+    {
+      "_id": "Ireland",
+      "total_cities": 56
+    },
+    {
+      "_id": "Nicaragua",
+      "total_cities": 3
+    },
+    {
+      "_id": "Brazil",
+      "total_cities": 72
+    },
+    {
+      "_id": "El Salvador",
+      "total_cities": 8
+    },
+    {
+      "_id": "Tajikistan",
+      "total_cities": 10
+    },
+    {
+      "_id": "Syria",
+      "total_cities": 4
+    },
+    {
+      "_id": "United Kingdom",
+      "total_cities": 225
+    },
+    {
+      "_id": "Slovakia",
+      "total_cities": 40
+    },
+    {
+      "_id": "Georgia",
+      "total_cities": 6
+    },
+    {
+      "_id": "Uganda",
+      "total_cities": 2
+    },
+    {
+      "_id": "Australia",
+      "total_cities": 172
+    },
+    {
+      "_id": "Mongolia",
+      "total_cities": 12
+    },
+    {
+      "_id": "Algeria",
+      "total_cities": 2
+    },
+    {
+      "_id": "Kuwait",
+      "total_cities": 4
+    },
+    {
+      "_id": "Kyrgyzstan",
+      "total_cities": 4
+    },
+    {
+      "_id": "Turkmenistan",
+      "total_cities": 2
+    },
+    {
+      "_id": "Zambia",
+      "total_cities": 2
+    },
+    {
+      "_id": "Denmark",
+      "total_cities": 3
+    },
+    {
+      "_id": "Estonia",
+      "total_cities": 8
+    },
+    {
+      "_id": "Iceland",
+      "total_cities": 5
+    },
+    {
+      "_id": "Ukraine",
+      "total_cities": 28
+    },
+    {
+      "_id": "Greece",
+      "total_cities": 103
+    },
+    {
+      "_id": "Costa Rica",
+      "total_cities": 1
+    },
+    {
+      "_id": "Portugal",
+      "total_cities": 22
+    },
+    {
+      "_id": "French Polynesia",
+      "total_cities": 1
+    },
+    {
+      "_id": "Belgium",
+      "total_cities": 91
+    },
+    {
+      "_id": "Myanmar",
+      "total_cities": 2
+    },
+    {
+      "_id": "Germany",
+      "total_cities": 300
+    },
+    {
+      "_id": "Pakistan",
+      "total_cities": 14
+    },
+    {
+      "_id": "Taiwan",
+      "total_cities": 37
+    },
+    {
+      "_id": "Malta",
+      "total_cities": 5
+    },
+    {
+      "_id": "Italy",
+      "total_cities": 114
+    },
+    {
+      "_id": "Indonesia",
+      "total_cities": 66
+    },
+    {
+      "_id": "Armenia",
+      "total_cities": 4
+    },
+    {
+      "_id": "Thailand",
+      "total_cities": 306
+    },
+    {
+      "_id": "Liechtenstein",
+      "total_cities": 1
+    },
+    {
+      "_id": "Madagascar",
+      "total_cities": 2
+    },
+    {
+      "_id": "Puerto Rico",
+      "total_cities": 9
+    },
+    {
+      "_id": "Kosovo",
+      "total_cities": 18
+    },
+    {
+      "_id": "Hong Kong SAR",
+      "total_cities": 4
+    },
+    {
+      "_id": "Norway",
+      "total_cities": 31
+    },
+    {
+      "_id": "Ethiopia",
+      "total_cities": 2
+    },
+    {
+      "_id": "Suriname",
+      "total_cities": 1
+    },
+    {
+      "_id": "Afghanistan",
+      "total_cities": 2
+    },
+    {
+      "_id": "Democratic Republic of the Congo",
+      "total_cities": 2
+    },
+    {
+      "_id": "Bosnia Herzegovina",
+      "total_cities": 48
+    },
+    {
+      "_id": "Russia",
+      "total_cities": 25
+    },
+    {
+      "_id": "Czech Republic",
+      "total_cities": 133
+    },
+    {
+      "_id": "Iran",
+      "total_cities": 40
+    },
+    {
+      "_id": "Guam",
+      "total_cities": 1
+    },
+    {
+      "_id": "Japan",
+      "total_cities": 743
+    },
+    {
+      "_id": "Canada",
+      "total_cities": 320
+    },
+    {
+      "_id": "Nepal",
+      "total_cities": 6
+    },
+    {
+      "_id": "Philippines",
+      "total_cities": 22
+    },
+    {
+      "_id": "Netherlands",
+      "total_cities": 92
+    },
+    {
+      "_id": "Israel",
+      "total_cities": 104
+    },
+    {
+      "_id": "New Caledonia",
+      "total_cities": 1
+    },
+    {
+      "_id": "Cambodia",
+      "total_cities": 1
+    },
+    {
+      "_id": "Serbia",
+      "total_cities": 50
+    },
+    {
+      "_id": "Ghana",
+      "total_cities": 4
+    },
+    {
+      "_id": "Mexico",
+      "total_cities": 105
+    },
+    {
+      "_id": "Turkey",
+      "total_cities": 168
+    },
+    {
+      "_id": "Austria",
+      "total_cities": 103
+    },
+    {
+      "_id": "Egypt",
+      "total_cities": 4
+    },
+    {
+      "_id": "Croatia",
+      "total_cities": 10
+    },
+    {
+      "_id": "Spain",
+      "total_cities": 248
+    },
+    {
+      "_id": "Bolivia",
+      "total_cities": 1
+    },
+    {
+      "_id": "Luxembourg",
+      "total_cities": 3
+    },
+    {
+      "_id": "Bulgaria",
+      "total_cities": 8
+    },
+    {
+      "_id": "Kazakhstan",
+      "total_cities": 34
+    },
+    {
+      "_id": "Sudan",
+      "total_cities": 2
+    },
+    {
+      "_id": "Macao SAR",
+      "total_cities": 2
+    },
+    {
+      "_id": "Bonaire, Saint Eustatius and Saba",
+      "total_cities": 1
+    },
+    {
+      "_id": "Trinidad and Tobago",
+      "total_cities": 3
+    },
+    {
+      "_id": "Guatemala",
+      "total_cities": 11
+    },
+    {
+      "_id": "Ivory Coast",
+      "total_cities": 2
+    },
+    {
+      "_id": "Grenada",
+      "total_cities": 1
+    },
+    {
+      "_id": "Hungary",
+      "total_cities": 40
+    },
+    {
+      "_id": "Albania",
+      "total_cities": 2
+    },
+    {
+      "_id": "U.S. Virgin Islands",
+      "total_cities": 2
+    },
+    {
+      "_id": "Finland",
+      "total_cities": 27
+    },
+    {
+      "_id": "Singapore",
+      "total_cities": 2
+    },
+    {
+      "_id": "Romania",
+      "total_cities": 57
+    },
+    {
+      "_id": "Senegal",
+      "total_cities": 2
+    },
+    {
+      "_id": "Uzbekistan",
+      "total_cities": 2
+    },
+    {
+      "_id": "Argentina",
+      "total_cities": 8
+    },
+    {
+      "_id": "Azerbaijan",
+      "total_cities": 2
+    },
+    {
+      "_id": "Rwanda",
+      "total_cities": 2
+    },
+    {
+      "_id": "USA",
+      "total_cities": 3134
+    },
+    {
+      "_id": "Chad",
+      "total_cities": 2
+    },
+    {
+      "_id": "Montenegro",
+      "total_cities": 12
+    },
+    {
+      "_id": "Laos",
+      "total_cities": 4
+    },
+    {
+      "_id": "South Korea",
+      "total_cities": 194
+    },
+    {
+      "_id": "Gabon",
+      "total_cities": 2
+    },
+    {
+      "_id": "Switzerland",
+      "total_cities": 71
+    },
+    {
+      "_id": "Colombia",
+      "total_cities": 9
+    },
+    {
+      "_id": "Uruguay",
+      "total_cities": 2
+    },
+    {
+      "_id": "Panama",
+      "total_cities": 1
+    },
+    {
+      "_id": "Kenya",
+      "total_cities": 4
+    },
+    {
+      "_id": "Bangladesh",
+      "total_cities": 2
+    },
+    {
+      "_id": "Maldives",
+      "total_cities": 12
+    },
+    {
+      "_id": "Sri Lanka",
+      "total_cities": 16
+    },
+    {
+      "_id": "China",
+      "total_cities": 1003
+    },
+    {
+      "_id": "Malaysia",
+      "total_cities": 109
+    },
+    {
+      "_id": "Cyprus",
+      "total_cities": 14
+    },
+    {
+      "_id": "Peru",
+      "total_cities": 35
+    },
+    {
+      "_id": "Guyana",
+      "total_cities": 4
+    },
+    {
+      "_id": "Qatar",
+      "total_cities": 4
+    },
+    {
+      "_id": "Venezuela",
+      "total_cities": 1
+    },
+    {
+      "_id": "United Arab Emirates",
+      "total_cities": 6
+    },
+    {
+      "_id": "Angola",
+      "total_cities": 1
+    },
+    {
+      "_id": "Latvia",
+      "total_cities": 2
+    },
+    {
+      "_id": "Poland",
+      "total_cities": 244
+    },
+    {
+      "_id": "Iraq",
+      "total_cities": 4
+    },
+    {
+      "_id": "South Africa",
+      "total_cities": 49
+    },
+    {
+      "_id": "New Zealand",
+      "total_cities": 31
+    },
+    {
+      "_id": "France",
+      "total_cities": 194
+    },
+    {
+      "_id": "Burkina Faso",
+      "total_cities": 2
+    },
+    {
+      "_id": "Nigeria",
+      "total_cities": 8
+    },
+    {
+      "_id": "Chile",
+      "total_cities": 113
+    },
+    {
+      "_id": "North Macedonia",
+      "total_cities": 20
+    },
+    {
+      "_id": "Moldova",
+      "total_cities": 2
+    },
+    {
+      "_id": "Honduras",
+      "total_cities": 3
+    },
+    {
+      "_id": "Belize",
+      "total_cities": 1
+    },
+    {
+      "_id": "Saudi Arabia",
+      "total_cities": 8
+    },
+    {
+      "_id": "Slovenia",
+      "total_cities": 32
+    }
+  ],
+  "Query 5 Dog": [
+    {
+      "_id": false,
+      "total_entries": 11420
+    },
+    {
+      "_id": true,
+      "total_entries": 11306
+    }
+  ],
+  "Query 6 Air Pollution": [
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f53855a"
+      },
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "2017": {
+        "$numberDouble": "NaN"
+      },
+      "2018": {
+        "$numberDouble": "NaN"
+      },
+      "2019": 12.4,
+      "2020": 14.2,
+      "2021": 13.6,
+      "2022": 14.2,
+      "2023": 14.2
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f53855e"
+      },
+      "city": "Rafaela",
+      "country": "Argentina",
+      "2017": {
+        "$numberDouble": "NaN"
+      },
+      "2018": {
+        "$numberDouble": "NaN"
+      },
+      "2019": {
+        "$numberDouble": "NaN"
+      },
+      "2020": {
+        "$numberDouble": "NaN"
+      },
+      "2021": 10.4,
+      "2022": 10.7,
+      "2023": 10.7
+    },
+    {
+      "_id": {
+        "$oid": "6588ea9255b9e951b37b654e"
+      },
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "2017": {
+        "$numberDouble": "NaN"
+      },
+      "2018": {
+        "$numberDouble": "NaN"
+      },
+      "2019": 12.4,
+      "2020": 14.2,
+      "2021": 13.6,
+      "2022": 14.2,
+      "2023": 14.2
+    }
+  ],
+  "Query 6 Dog": [
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f53a0a5"
+      },
+      "age": 6,
+      "weight_kg": 38.67,
+      "height_cm": 72,
+      "vaccinated": true,
+      "birth_timestamp": "2023-11-03T15:07:56",
+      "is_male": true,
+      "litter_size": 9,
+      "health_score": 2.33,
+      "exercise_hours": 4.48,
+      "training_sessions": 7,
+      "feeding_frequency": "twice",
+      "grooming_needs": 2
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f53a0a6"
+      },
+      "age": 5,
+      "weight_kg": 37.42,
+      "height_cm": 98,
+      "vaccinated": false,
+      "birth_timestamp": "2021-04-08T03:18:31",
+      "is_male": true,
+      "litter_size": 2,
+      "health_score": 4.58,
+      "exercise_hours": 3.47,
+      "training_sessions": 17,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 2
+    },
+    {
+      "_id": {
+        "$oid": "6588ea6ed9fed1f07f53a0d3"
+      },
+      "age": 9,
+      "weight_kg": 38.52,
+      "height_cm": 88,
+      "vaccinated": true,
+      "birth_timestamp": "2021-04-21T17:23:38",
+      "is_male": true,
+      "litter_size": 9,
+      "health_score": 0.73,
+      "exercise_hours": 4.56,
+      "training_sessions": 12,
+      "feeding_frequency": "thrice",
+      "grooming_needs": 1
+    }
+  ],
+  "Query 7 Air Pollution": [
+    {
+      "_id": "India",
+      "max_pollution_2021": 175.9
+    },
+    {
+      "_id": "China",
+      "max_pollution_2021": 101.5
+    }
+  ],
+  "Query 7 Dog": [
+    {
+      "_id": "twice",
+      "count": 7662
+    },
+    {
+      "_id": "four times",
+      "count": 7646
+    }
+  ],
+  "Query 10 Air Pollution": [
+    {
+      "_id": "Algeria",
+      "average_pollution": 18.0
+    },
+    {
+      "_id": "Malta",
+      "average_pollution": 12.05
+    },
+    {
+      "_id": "Australia",
+      "average_pollution": 11.100000000000001
+    },
+    {
+      "_id": "Mongolia",
+      "average_pollution": 22.650000000000002
+    },
+    {
+      "_id": "Pakistan",
+      "average_pollution": 69.25714285714285
+    },
+    {
+      "_id": "Singapore",
+      "average_pollution": 13.3
+    },
+    {
+      "_id": "Kyrgyzstan",
+      "average_pollution": 34.35
+    },
+    {
+      "_id": "Kuwait",
+      "average_pollution": 45.0
+    },
+    {
+      "_id": "Senegal",
+      "average_pollution": 20.4
+    },
+    {
+      "_id": "Sri Lanka",
+      "average_pollution": 19.3
+    },
+    {
+      "_id": "Romania",
+      "average_pollution": 17.392857142857142
+    },
+    {
+      "_id": "Turkmenistan",
+      "average_pollution": 21.6
+    },
+    {
+      "_id": "Portugal",
+      "average_pollution": 13.6
+    },
+    {
+      "_id": "Argentina",
+      "average_pollution": 12.45
+    },
+    {
+      "_id": "Azerbaijan",
+      "average_pollution": 18.9
+    },
+    {
+      "_id": "Greece",
+      "average_pollution": 17.86470588235294
+    },
+    {
+      "_id": "Gabon",
+      "average_pollution": 25.0
+    },
+    {
+      "_id": "El Salvador",
+      "average_pollution": 15.024999999999999
+    },
+    {
+      "_id": "Brazil",
+      "average_pollution": 14.336363636363638
+    },
+    {
+      "_id": "Switzerland",
+      "average_pollution": 12.104166666666666
+    },
+    {
+      "_id": "Tajikistan",
+      "average_pollution": 39.86
+    },
+    {
+      "_id": "Ukraine",
+      "average_pollution": 12.285714285714286
+    },
+    {
+      "_id": "Macao SAR",
+      "average_pollution": 15.4
+    },
+    {
+      "_id": "Syria",
+      "average_pollution": 19.95
+    },
+    {
+      "_id": "Ivory Coast",
+      "average_pollution": 22.5
+    },
+    {
+      "_id": "Guatemala",
+      "average_pollution": 18.22
+    },
+    {
+      "_id": "Slovakia",
+      "average_pollution": 15.4
+    },
+    {
+      "_id": "United Kingdom",
+      "average_pollution": 10.771794871794873
+    },
+    {
+      "_id": "Albania",
+      "average_pollution": 14.5
+    },
+    {
+      "_id": "Uzbekistan",
+      "average_pollution": 33.5
+    },
+    {
+      "_id": "Hungary",
+      "average_pollution": 14.094999999999999
+    },
+    {
+      "_id": "Georgia",
+      "average_pollution": 18.966666666666665
+    },
+    {
+      "_id": "Uganda",
+      "average_pollution": 39.6
+    },
+    {
+      "_id": "Ireland",
+      "average_pollution": 11.35
+    },
+    {
+      "_id": "Croatia",
+      "average_pollution": 21.56
+    },
+    {
+      "_id": "Egypt",
+      "average_pollution": 37.55
+    },
+    {
+      "_id": "Spain",
+      "average_pollution": 11.709876543209877
+    },
+    {
+      "_id": "Uruguay",
+      "average_pollution": 11.3
+    },
+    {
+      "_id": "Kazakhstan",
+      "average_pollution": 30.06153846153846
+    },
+    {
+      "_id": "Bulgaria",
+      "average_pollution": 17.05
+    },
+    {
+      "_id": "Luxembourg",
+      "average_pollution": 13.7
+    },
+    {
+      "_id": "Sudan",
+      "average_pollution": 44.6
+    },
+    {
+      "_id": "Zambia",
+      "average_pollution": 24.6
+    },
+    {
+      "_id": "Netherlands",
+      "average_pollution": 11.96923076923077
+    },
+    {
+      "_id": "Vietnam",
+      "average_pollution": 20.472727272727273
+    },
+    {
+      "_id": "Lithuania",
+      "average_pollution": 13.475
+    },
+    {
+      "_id": "Israel",
+      "average_pollution": 18.757692307692306
+    },
+    {
+      "_id": "Serbia",
+      "average_pollution": 26.844
+    },
+    {
+      "_id": "Bahrain",
+      "average_pollution": 66.6
+    },
+    {
+      "_id": "Austria",
+      "average_pollution": 11.812820512820512
+    },
+    {
+      "_id": "Turkey",
+      "average_pollution": 20.406024096385543
+    },
+    {
+      "_id": "Ghana",
+      "average_pollution": 31.5
+    },
+    {
+      "_id": "Mexico",
+      "average_pollution": 18.638297872340427
+    },
+    {
+      "_id": "Bosnia Herzegovina",
+      "average_pollution": 32.59583333333334
+    },
+    {
+      "_id": "Democratic Republic of the Congo",
+      "average_pollution": 15.5
+    },
+    {
+      "_id": "Honduras",
+      "average_pollution": 10.2
+    },
+    {
+      "_id": "Moldova",
+      "average_pollution": 22.6
+    },
+    {
+      "_id": "Czech Republic",
+      "average_pollution": 14.559016393442624
+    },
+    {
+      "_id": "Russia",
+      "average_pollution": 16.95
+    },
+    {
+      "_id": "Iran",
+      "average_pollution": 29.160000000000004
+    },
+    {
+      "_id": "Saudi Arabia",
+      "average_pollution": 40.65
+    },
+    {
+      "_id": "Canada",
+      "average_pollution": 11.583333333333334
+    },
+    {
+      "_id": "India",
+      "average_pollution": 44.296446700507616
+    },
+    {
+      "_id": "Japan",
+      "average_pollution": 11.236330935251798
+    },
+    {
+      "_id": "Nepal",
+      "average_pollution": 37.56666666666667
+    },
+    {
+      "_id": "Philippines",
+      "average_pollution": 15.819999999999999
+    },
+    {
+      "_id": "Poland",
+      "average_pollution": 16.303361344537816
+    },
+    {
+      "_id": "Madagascar",
+      "average_pollution": 23.7
+    },
+    {
+      "_id": "Slovenia",
+      "average_pollution": 15.921875
+    },
+    {
+      "_id": "Norway",
+      "average_pollution": 11.5
+    },
+    {
+      "_id": "Iraq",
+      "average_pollution": 60.85
+    },
+    {
+      "_id": "Hong Kong SAR",
+      "average_pollution": 15.899999999999999
+    },
+    {
+      "_id": "Kosovo",
+      "average_pollution": 16.085714285714285
+    },
+    {
+      "_id": "Ethiopia",
+      "average_pollution": 31.3
+    },
+    {
+      "_id": "New Zealand",
+      "average_pollution": 11.45
+    },
+    {
+      "_id": "Nigeria",
+      "average_pollution": 38.375
+    },
+    {
+      "_id": "South Africa",
+      "average_pollution": 20.571428571428573
+    },
+    {
+      "_id": "Chile",
+      "average_pollution": 20.22407407407407
+    },
+    {
+      "_id": "Afghanistan",
+      "average_pollution": 17.1
+    },
+    {
+      "_id": "Burkina Faso",
+      "average_pollution": 63.0
+    },
+    {
+      "_id": "France",
+      "average_pollution": 11.731250000000001
+    },
+    {
+      "_id": "North Macedonia",
+      "average_pollution": 21.78
+    },
+    {
+      "_id": "China",
+      "average_pollution": 29.784778225806452
+    },
+    {
+      "_id": "Malaysia",
+      "average_pollution": 15.874468085106383
+    },
+    {
+      "_id": "Guyana",
+      "average_pollution": 12.45
+    },
+    {
+      "_id": "Qatar",
+      "average_pollution": 45.3
+    },
+    {
+      "_id": "Italy",
+      "average_pollution": 16.62363636363636
+    },
+    {
+      "_id": "Cyprus",
+      "average_pollution": 14.6
+    },
+    {
+      "_id": "Peru",
+      "average_pollution": 23.211764705882356
+    },
+    {
+      "_id": "Armenia",
+      "average_pollution": 29.9
+    },
+    {
+      "_id": "Indonesia",
+      "average_pollution": 23.22962962962963
+    },
+    {
+      "_id": "Latvia",
+      "average_pollution": 10.1
+    },
+    {
+      "_id": "Thailand",
+      "average_pollution": 19.719867549668873
+    },
+    {
+      "_id": "Montenegro",
+      "average_pollution": 26.933333333333334
+    },
+    {
+      "_id": "Belgium",
+      "average_pollution": 12.352777777777778
+    },
+    {
+      "_id": "Chad",
+      "average_pollution": 89.7
+    },
+    {
+      "_id": "Myanmar",
+      "average_pollution": 24.3
+    },
+    {
+      "_id": "Rwanda",
+      "average_pollution": 44.0
+    },
+    {
+      "_id": "USA",
+      "average_pollution": 11.666331417624521
+    },
+    {
+      "_id": "United Arab Emirates",
+      "average_pollution": 48.96666666666667
+    },
+    {
+      "_id": "Germany",
+      "average_pollution": 11.321649484536083
+    },
+    {
+      "_id": "Laos",
+      "average_pollution": 27.25
+    },
+    {
+      "_id": "South Korea",
+      "average_pollution": 17.694845360824743
+    },
+    {
+      "_id": "Taiwan",
+      "average_pollution": 14.2125
+    },
+    {
+      "_id": "Colombia",
+      "average_pollution": 16.75
+    },
+    {
+      "_id": "Bangladesh",
+      "average_pollution": 65.8
+    },
+    {
+      "_id": "Kenya",
+      "average_pollution": 11.2
+    },
+    {
+      "_id": "Maldives",
+      "average_pollution": 14.450000000000001
+    }
+  ],
+  "Query 10 Dog": [
+    {
+      "_id": false,
+      "average_health_score": 6.261660245183888
+    },
+    {
+      "_id": true,
+      "average_health_score": 6.218524677162568
+    }
+  ]
+}
