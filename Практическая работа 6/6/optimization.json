@@ -1,0 +1,64 @@
+{
+  "file_size_KB": 2511,
+  "file_in_memory_size_KB": 1529,
+  "0": {
+    "column_name": "carat",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "4": {
+    "column_name": "depth",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "5": {
+    "column_name": "table",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "7": {
+    "column_name": "x",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "8": {
+    "column_name": "y",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "9": {
+    "column_name": "z",
+    "memory_abs": 210,
+    "memory_per": 13.776,
+    "dtype": "float32"
+  },
+  "6": {
+    "column_name": "price",
+    "memory_abs": 105,
+    "memory_per": 6.888,
+    "dtype": "uint16"
+  },
+  "1": {
+    "column_name": "cut",
+    "memory_abs": 53,
+    "memory_per": 3.4725,
+    "dtype": "category"
+  },
+  "2": {
+    "column_name": "color",
+    "memory_abs": 53,
+    "memory_per": 3.4855,
+    "dtype": "category"
+  },
+  "3": {
+    "column_name": "clarity",
+    "memory_abs": 53,
+    "memory_per": 3.4897,
+    "dtype": "category"
+  }
+}

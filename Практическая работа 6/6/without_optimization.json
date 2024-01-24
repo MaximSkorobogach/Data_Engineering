@@ -1,0 +1,64 @@
+{
+  "file_size_KB": 2511,
+  "file_in_memory_size_KB": 11241,
+  "1": {
+    "column_name": "cut",
+    "memory_abs": 2912,
+    "memory_per": 25.907,
+    "dtype": "object"
+  },
+  "3": {
+    "column_name": "clarity",
+    "memory_abs": 2745,
+    "memory_per": 24.4207,
+    "dtype": "object"
+  },
+  "2": {
+    "column_name": "color",
+    "memory_abs": 2633,
+    "memory_per": 23.4298,
+    "dtype": "object"
+  },
+  "0": {
+    "column_name": "carat",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  },
+  "4": {
+    "column_name": "depth",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  },
+  "5": {
+    "column_name": "table",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  },
+  "6": {
+    "column_name": "price",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "int64"
+  },
+  "7": {
+    "column_name": "x",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  },
+  "8": {
+    "column_name": "y",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  },
+  "9": {
+    "column_name": "z",
+    "memory_abs": 421,
+    "memory_per": 3.7488,
+    "dtype": "float64"
+  }
+}
